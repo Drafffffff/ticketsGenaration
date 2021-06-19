@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAKA,KACE,SAGA,cACE,WAAA,CACA","file":"style.099d9934.css","sourceRoot":"..","sourcesContent":["// Copyright (c) 2021 drafff\n//\n// This software is released under the MIT License.\n// https://opensource.org/licenses/MIT\n\nbody {\n  margin: 0;\n}\n#canvas {\n  input {\n    height: 3rem;\n    width: 15rem;\n  }\n}\n"]}
